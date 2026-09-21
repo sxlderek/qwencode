@@ -1,2 +1,2 @@
-# qwenagent
-managed by qwen coder agent
+# qwencode
+managed by qwen coder web agent
